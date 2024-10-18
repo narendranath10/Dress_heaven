@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    display: inline;
+}
+
+h1{
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    display: inline;
+    margin-left: 500px;
+
+}
+li{
+    cursor: pointer;
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+}
+li:hover{
+    color: orangered;
+}
+.header{
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.ig{
+    margin: 10px;
+    text-align: center;
+}
+.ig div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+input{
+      display: inline;
+      width: 300px;
+      height: 20px;
+      padding: 5px;
+}
+.ch{
+    text-align: center;
+}
+.box1,.box2,.box3{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.mens_wear{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.c1:hover,.c2:hover,.c3:hover,.c4:hover,.c5:hover,.c6:hover,.c7:hover,.c8:hover,.c9:hover{
+    background-color: black;
+    color: orangered;
+}
+.box4,.box5,.box6{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.women{
+    text-align: center;
+    margin-top: 15px;
+}
+.box7,.box8,.box9{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.kids{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.p{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 30px;
+    margin-top: 20px;
+    background-color: black;
+    color: orangered;
+    text-align: center;
+    cursor: pointer;
+}
+
+body{
+    background-image: url(image/bgm2.jpg);
+}
